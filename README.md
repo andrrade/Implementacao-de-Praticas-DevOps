@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/Rocketseat-Logo.png" alt="img" width="200"><br>
+  <img src="./assets/rocketseatLogo.png" alt="img" width="200"><br>
   <h3>Rocketseat</h3>
 </div><br>
 
