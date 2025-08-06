@@ -1,10 +1,6 @@
 <div align="center">
   <img src="./assets/rocketseatLogo.png" alt="img" width="200"><br>
-  <h3>Rocketseat</h3>
+  <h3>Implementação de Práticas DevOps</h3>
 </div><br>
-
-# Implementação de Práticas DevOps
-
-Desafio da trilha de DevOps da Rocketseat que simula a implementação de práticas DevOps em um ambiente empresarial fictício
 
 ---
