@@ -7,6 +7,8 @@
 
 # Plano de Implementação de Práticas DevOps – Tech
 
+[Desafio](https://github.com/andrrade/Implementacao-de-Praticas-DevOps/blob/main/desafio.md)
+
 ## 1. Diagnóstico Cultural (C de CALMS)
 
 A **Tech** possui desafios culturais e organizacionais que impedem entregas rápidas e confiáveis. Atualmente:
