@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/rocketseatLogo.png" alt="img" width="200"><br>
+  <img src="./assets/rocketseatLogo.png" alt="img" width="150"><br>
   <h3>Implementação de Práticas DevOps</h3>
 </div><br>
 
@@ -7,7 +7,7 @@
 
 # Plano de Implementação de Práticas DevOps – Tech
 
-[Desafio](https://github.com/andrrade/Implementacao-de-Praticas-DevOps/blob/main/desafio.md)
+[Desafio](https://github.com/andrrade/Desafio01-DevOps-Rocketseat/blob/main/desafio.md)
 
 ## 1. Diagnóstico Cultural (C de CALMS)
 
